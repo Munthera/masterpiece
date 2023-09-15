@@ -669,6 +669,8 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    background-image: url(../img/home.1.jpg);
+
 }
 
 .about .section-header {
@@ -679,7 +681,9 @@ a:focus {
 .about .about-img img {
     width: 100%;
     border-radius: 5px;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
+    /* background-image: url(../img/home.1.jpg); */
+
 }
 
 .about .about-content {
